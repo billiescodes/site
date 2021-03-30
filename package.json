@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samhavens/site.git"
+    "url": "git+https://github.com/billiescodes/site"
   },
-  "author": "Sam Havens",
+  "author": "Biljana Rolih",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/samhavens/site/issues"
+    "url": "https://github.com/billiescodes/site/issues"
   },
-  "homepage": "https://github.com/samhavens/site#readme"
+  "homepage": "https://github.com/billiescodes/site#readme"
 }
