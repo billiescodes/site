@@ -1,5 +1,6 @@
 # Personal Site
 
+`(outdated README)`
 ### Dependencies
 - Node/npm
 - `resume-cli` npm package, *installed globally*
